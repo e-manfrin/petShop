@@ -9,12 +9,6 @@ relevantes para a empresa.
 
 ## Telas do sistema:
 
-<div align="center">
-<img width="550" alt="alunoCadastrado" src="https://user-images.githubusercontent.com/79612116/195715471-cfd473ea-c393-4de9-9795-f9178db97e61.jpeg">
-</div>
-
-## Telas do sistema:
-
 Acesse o link abaixo, para filtre os dados (Dados interativos).
 
 https://lnkd.in/d7sicKQW
