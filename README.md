@@ -9,7 +9,7 @@ relevantes para a empresa.
 
 ## Telas do sistema:
 
-Acesse o link abaixo, para filtre os dados (Dados interativos).
+Acesse o link abaixo, e filtre os dados (Dados interativos).
 
 https://lnkd.in/d7sicKQW
 
